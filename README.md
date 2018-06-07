@@ -1,4 +1,4 @@
-# Applozic-React-Native-Chat-Messaging-SDK
+# Applozic-React-Native-Chat-Messaging-SDK.
 
 
 Applozic powers real time messaging across any device, any platform & anywhere in the world. Integrate our simple SDK to engage your users with image, file, location sharing and audio/video conversations.
